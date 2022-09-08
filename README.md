@@ -1,6 +1,6 @@
 ## my profile!
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+![ronbot GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ronbot&hide_border=true&theme=redical)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
