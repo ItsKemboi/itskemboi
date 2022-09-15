@@ -1,12 +1,5 @@
-## my profile!
-### 📈 GitHub Activity Graph:
-![ronbot GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ronbot&hide_border=true&theme=redical)
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+## my profile stats
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ronbot-ai&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbot-ai&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
